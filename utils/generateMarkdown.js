@@ -51,8 +51,6 @@ function generateMarkdown(data) {
   for (i in install) {
     install[i] = `${Number(i) + 1}. ${install[i]}\n`
   }
-  console.log(install)
-  console.log(data)
   return `# ${data.title}
 
 ${renderLicenseBadge(data.license)}
