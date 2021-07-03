@@ -22,6 +22,8 @@ This project is a project that generates a readme based on user's responses to p
 
 Navigate to your local directory using git bash or terminal, then type "node index.js".
 
+You can see the video [here](https://youtu.be/hEDLXnfSHfQ)
+
 # License:
 
 This project is licensed under the MIT license, which you can read about [here](https://opensource.org/licenses/MIT).
