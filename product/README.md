@@ -1,10 +1,10 @@
-# Justin is awesome
+# Employee Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Description:
 
-This project tells users how awesome I am.
+It is a project that can view and interact with employee information in a MySQL database.
 
 # Table of Contents:
 
@@ -15,20 +15,20 @@ This project tells users how awesome I am.
 
 # Installation:
 
-1. Fork this repo.
-2. Clone onto your local machine.
+1. Fork this repository
+2. Clone onto your local machine
 
 # Usage:
 
-navigate to the local directory using gitbash or terminal, then type "node index.js" and hit enter
+run the seed.sql file in MySQL Workbench and update the .env.EXAMPLE file using your username and password
 
 # Contribution:
 
-I am not currently accepting contributors for this project
+none
 
 # Tests:
 
-I did not test this project
+none
 
 # License:
 
